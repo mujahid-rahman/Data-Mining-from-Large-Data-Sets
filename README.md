@@ -10,7 +10,6 @@ algorithm.
 #### The running environment with a Map Reduce framework was provided. So the Mapper and Reducer
 were developed independently and then submitted to the running environment.
 
-## This project shows that LSH is a nice approach to find near duplicates in a large set of videos. It can
-be simply developed in a Map Reduce environment.
+### This project shows that LSH is a nice approach to find near duplicates in a large set of videos. It can be simply developed in a Map Reduce environment.
 
 
